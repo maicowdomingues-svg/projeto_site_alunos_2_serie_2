@@ -23,7 +23,7 @@ Tecnologias utilizadas
 
 Para desenvolver o site, foram utilizadas as seguintes tecnologias:
 
-HTML5: utilizado para criar a estrutura da página.
+<br>HTML5: utilizado para criar a estrutura da página.<br>
 CSS3: utilizado para organizar o visual, as cores, os tamanhos, os espaçamentos e a responsividade do site.
 JavaScript: utilizado para criar interações, como o menu responsivo e a ampliação das imagens ao clicar.
 GitHub: utilizado para armazenar os arquivos do projeto.
