@@ -97,4 +97,4 @@ Além de desenvolver conhecimentos sobre HTML, CSS, JavaScript e GitHub, o proje
 
 Autoria
 
-Projeto desenvolvido pelos estudantes da Terra Indígena Queimadas, no município de Ortigueira, Paraná, como parte das atividades escolares do Projeto Agrinho 2026.
+Projeto desenvolvido pelos estudantes, da Terra Indígena Queimadas, no município de Ortigueira, Paraná, com auxilio das inteligencias artificais disponiveis, Gemini e Chatgpt, com mediação e intervenção nas partes mais complexas do professor, como parte das atividades escolares do Projeto Agrinho 2026.
