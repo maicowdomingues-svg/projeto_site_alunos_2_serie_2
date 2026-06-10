@@ -24,32 +24,33 @@ Tecnologias utilizadas
 Para desenvolver o site, foram utilizadas as seguintes tecnologias:
 
 <br>HTML5: utilizado para criar a estrutura da página.<br>
-CSS3: utilizado para organizar o visual, as cores, os tamanhos, os espaçamentos e a responsividade do site.
-JavaScript: utilizado para criar interações, como o menu responsivo e a ampliação das imagens ao clicar.
-GitHub: utilizado para armazenar os arquivos do projeto.
-GitHub Pages: utilizado para publicar o site na internet.
+<br>CSS3: utilizado para organizar o visual, as cores, os tamanhos, os espaçamentos e a responsividade do site.<br>
+<br>JavaScript: utilizado para criar interações, como o menu responsivo e a ampliação das imagens ao clicar.<br>
+<br>GitHub: utilizado para armazenar os arquivos do projeto.<br>
+<br>GitHub Pages: utilizado para publicar o site na internet.<br>
 
 Arquivos do projeto
 
 O projeto é formado pelos seguintes arquivos e pastas:
 
-index.html: arquivo principal do site, onde está a estrutura da página.
-style.css: arquivo responsável pela aparência do site, como cores, fontes, imagens, tamanhos e organização das seções.
-script.js: arquivo responsável pelas interações do site.
-README.md: arquivo com as informações sobre o projeto.
-img: pasta onde ficam armazenadas as imagens utilizadas no site.
+<br>index.html: arquivo principal do site, onde está a estrutura da página.<br>
+<br>style.css: arquivo responsável pela aparência do site, como cores, fontes, imagens, tamanhos e organização das seções.<br>
+<br>script.js: arquivo responsável pelas interações do site.<br>
+<br>README.md: arquivo com as informações sobre o projeto.<br>
+<br>img: pasta onde ficam armazenadas as imagens utilizadas no site.<br>
 
 Estrutura do site
 
 O site foi organizado em diferentes seções para facilitar a navegação e a leitura. As principais partes da página são:
 
-Início: apresentação principal do site.
-Nossa comunidade: informações sobre a Terra Indígena Queimadas.
-Cultura e identidade: valorização dos saberes, costumes e formas de vida da comunidade.
-Natureza e sustentabilidade: reflexão sobre o cuidado com a natureza e o território.
-Nossa escola: apresentação da escola da comunidade, com nome e imagem.
-Galeria da comunidade: espaço para imagens autorizadas da comunidade, da escola, da natureza e do território.
-Projeto Agrinho 2026: explicação sobre a relação do site com o projeto escolar.
+<br>Início: apresentação principal do site.<br>
+<br>Nossa comunidade: informações sobre a Terra Indígena Queimadas.<br>
+<br>Cultura e identidade: valorização dos saberes, costumes e formas de vida da comunidade.<br>
+<br>Natureza e sustentabilidade: reflexão sobre o cuidado com a natureza e o território.<br>
+<br>Nossa escola: apresentação da escola da comunidade, com nome e imagem.<br>
+<br>Galeria da comunidade: espaço para imagens autorizadas da comunidade, da escola, da natureza e do território.<br>
+<br>Projeto Agrinho 2026: explicação sobre a relação do site com o projeto escolar.<br>
+
 Passos utilizados para concluir a página
 
 Para concluir a criação do site, foram seguidos alguns passos principais.
@@ -68,22 +69,23 @@ Depois, foi criada a pasta img, onde foram colocadas as imagens utilizadas no si
 
 Por fim, os arquivos foram organizados para publicação no GitHub. O projeto foi preparado para ser enviado a um repositório e publicado por meio do GitHub Pages, permitindo que o site pudesse ser acessado pela internet.
 
-Como visualizar o site
+_Como visualizar o site_
 
 Para visualizar o site no computador, basta abrir o arquivo index.html em um navegador de internet.
 
 Para publicar o site no GitHub Pages, siga os passos:
 
-Criar uma conta ou acessar uma conta no GitHub.
-Criar um novo repositório.
-Enviar os arquivos do projeto para o repositório.
-Verificar se os arquivos index.html, style.css, script.js, README.md e a pasta img foram enviados corretamente.
-Acessar a opção Settings do repositório.
-Entrar em Pages.
-Selecionar a branch principal, geralmente chamada main.
-Salvar a configuração.
-Aguardar o GitHub gerar o link do site.
-Cuidados com as imagens e informações
+<br>Criar uma conta ou acessar uma conta no GitHub.<br>
+<br>Criar um novo repositório.<br>
+<br>Enviar os arquivos do projeto para o repositório.<br>
+<br>Verificar se os arquivos index.html, style.css, script.js, README.md e a pasta img foram enviados corretamente.<br>
+<br>Acessar a opção Settings do repositório.<br>
+<br>Entrar em Pages.<br>
+<br>Selecionar a branch principal, geralmente chamada main.<br>
+<br>Salvar a configuração.<br>
+<br>Aguardar o GitHub gerar o link do site.<br>
+
+_Cuidados com as imagens e informações_
 
 As imagens utilizadas no site devem ter autorização para publicação. É importante evitar a exposição de pessoas, crianças, espaços internos, práticas culturais, rituais, histórias, cantos, conhecimentos tradicionais ou informações da comunidade sem autorização dos responsáveis, professores, famílias e lideranças.
 
