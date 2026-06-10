@@ -112,4 +112,4 @@ Além de desenvolver conhecimentos sobre HTML, CSS, JavaScript e GitHub, o proje
 
 ## Autoria
 
-Projeto desenvolvido pelos estudantes da Terra Indígena Queimadas, no município de Ortigueira, Paraná, como parte das atividades escolares do Projeto Agrinho 2026.
+Projeto desenvolvido pelos estudantes da Terra Indígena Queimadas, no município de Ortigueira, Paraná, com auxilio das inteligencias artificias disponiveis, Gemini e Chatgpt, e mediação e intervenção do professor na produção e realização das partes mais complexas, como parte das atividades escolares do Projeto Agrinho 2026.
