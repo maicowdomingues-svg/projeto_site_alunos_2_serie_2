@@ -354,3 +354,10 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+
+.fonte {
+  font-size: 14px;
+  color: #5c5c5c;
+  font-style: italic;
+  margin-top: 10px;
+}
